@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a newly-minted software developer named Camilla Herring, nice to meet you all!
 <!--
 **camillaherring/camillaherring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
